@@ -1,1 +1,1 @@
-json.partial! @recipe, partial: "recipe", as: :product
+json.partial! @recipe, partial: "recipe", as: :recipe
